@@ -10,7 +10,7 @@
 
 #### Bem vindo ou bem vinda ao meu github. Sou de Fortaleza - Ceará, nordeste brasileiro. desenvolvedor em formação na [TRYBE](http://https://www.betrybe.com/ "TRYBE"), onde adquiro hard e soft skills, como:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=adrianomonteiroweb&hide=html,css&layout=compact&theme=dracula&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=adrianomonteiroweb&hide=html,css&layout=compact&theme=dracula&langs_count=10)
 
 <h2>Fundamentos:</h2>
 <p><i>Em fundamentos, tive bom desempenho com JavaScript. Além de utilizar bem o fluxo de versionamento Git.</i></p>
