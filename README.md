@@ -63,12 +63,13 @@
 </div>
 
 <h2>"Aprendendo a aprender!"</h2>
-<p><i>Pretendo seguir crescendo de acordo com a cultura e stack do time em que estiver inserido, aprendendo métodos e tecnologias, além das que viso como TypeScript, Angular e Ruby.</i></p>
+<p><i>Pretendo seguir crescendo de acordo com a cultura e stack do time em que estiver inserido, aprendendo métodos e tecnologias, além das que viso como TypeScript, Angular, C# e Ruby.</i></p>
 <div>
   <img align="center" alt="TypeScript" height="28" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Angular" height="28" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Ruby" height="28" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
   <img align="center" alt="PHP" height="38" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="C#" height="38" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 <br>
 
