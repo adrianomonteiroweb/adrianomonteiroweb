@@ -1,14 +1,6 @@
 ### Olá, Adriano Monteiro por aqui. Como vai, tudo bem?
 
-*Você teria 2 minutos do seu tempo? O convite é simples: Uma call, você me conta os objetivos de seu time e empresa e eu te conto como posso colaborar para alcançarmos juntos. E então, quais desafios você tem pra mim?*
-
-#### Contatos: 
-[<img width="8%" src="https://camo.githubusercontent.com/571384769c09e0c66b45e39b5be70f68f552db3e2b2311bc2064f0d4a9f5983b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465">](mailto:adrianomonteirodev@gmail.com)
-[<img width="10%" src="https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465">](https://www.linkedin.com/in/adrianomonteirodev/)
-[<img width="11%" src="https://camo.githubusercontent.com/b3d4671768bd0f9b6c8f410a25a96e0c5a4d135208d8910461e986f97e7985ab/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d4534343035463f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465">](https://www.instagram.com/adrianomonteirodev/)
-[<img width="10%" src="https://camo.githubusercontent.com/d9d4db0a25f6d41d6ef282c6adc2f9bd5b31201ef00ba580f5a945da4063a937/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57686174734170702d3235443336363f7374796c653d666f722d7468652d6261646765266c6f676f3d7768617473617070266c6f676f436f6c6f723d7768697465">](https://api.whatsapp.com/send?phone=5585989587554&text=Hi%2C%20Adriano...%20)
-
-#### Bem vindo ou bem vinda ao meu github. Sou de Fortaleza - Ceará, nordeste brasileiro. desenvolvedor em formação na [TRYBE](http://https://www.betrybe.com/ "TRYBE"), onde adquiro hard e soft skills, como:
+#### Bem vindo ou bem vinda ao meu github. Sou de Fortaleza - Ceará, nordeste brasileiro. Desenvolvedor em formação na [TRYBE](http://https://www.betrybe.com/ "TRYBE") e treinee na [YOUFY](https://www.youfy.com.br/?gclid=CjwKCAjwlcaRBhBYEiwAK341jWJYT0JOuMAP2cuF6uPcgLs6396PLSbbLkTmay1zFB5mn5i6rdh5cBoCSjcQAvD_BwE "YOUFY") onde adquiro hard e soft skills, como:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=adrianomonteiroweb&hide=html,css,blade,ruby&layout=compact&theme=dracula&langs_count=10)
 
@@ -73,3 +65,9 @@
 <br>
 
 ![Adriano Monteiro' Github Stats](https://github-readme-stats.vercel.app/api?username=adrianomonteiroweb&show_icons=true&theme=dracula)
+
+#### Contatos: 
+[<img width="8%" src="https://camo.githubusercontent.com/571384769c09e0c66b45e39b5be70f68f552db3e2b2311bc2064f0d4a9f5983b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465">](mailto:adrianomonteirodev@gmail.com)
+[<img width="10%" src="https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465">](https://www.linkedin.com/in/adrianomonteirodev/)
+[<img width="11%" src="https://camo.githubusercontent.com/b3d4671768bd0f9b6c8f410a25a96e0c5a4d135208d8910461e986f97e7985ab/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d4534343035463f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465">](https://www.instagram.com/adrianomonteirodev/)
+[<img width="10%" src="https://camo.githubusercontent.com/d9d4db0a25f6d41d6ef282c6adc2f9bd5b31201ef00ba580f5a945da4063a937/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57686174734170702d3235443336363f7374796c653d666f722d7468652d6261646765266c6f676f3d7768617473617070266c6f676f436f6c6f723d7768697465">](https://api.whatsapp.com/send?phone=5585989587554&text=Hi%2C%20Adriano...%20)
