@@ -5,7 +5,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=adrianomonteiroweb&hide=html,css,blade,ruby&layout=compact&theme=dracula&langs_count=10)
 
 <h2>Fundamentos:</h2>
-<p><i>Tenho formação baseada em Javascript. Linguagem da qual pretendo continuar me especializando como atualmente em POO.</i></p>
+<p><i>Tenho formação baseada em Javascript. Linguagem da qual pretendo continuar me especializando como atualmente em POO para web scraping.</i></p>
 <div>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
