@@ -1,17 +1,12 @@
 ### Olá, Adriano Monteiro por aqui. Como vai, tudo bem?
 
-#### Bem vindo ou bem vinda ao meu github. Sou de Fortaleza - Ceará, nordeste brasileiro. Treinee na [YOUFY](https://www.youfy.com.br/?gclid=CjwKCAjwlcaRBhBYEiwAK341jWJYT0JOuMAP2cuF6uPcgLs6396PLSbbLkTmay1zFB5mn5i6rdh5cBoCSjcQAvD_BwE "YOUFY") e estudante na [TRYBE](http://https://www.betrybe.com/ "TRYBE") , onde adquiro hard e soft skills, como:
+#### Bem vindo ou bem vinda. Sou de Fortaleza - Ceará, nordeste brasileiro. Treinee na [YOUFY](https://www.youfy.com.br/?gclid=CjwKCAjwlcaRBhBYEiwAK341jWJYT0JOuMAP2cuF6uPcgLs6396PLSbbLkTmay1zFB5mn5i6rdh5cBoCSjcQAvD_BwE "YOUFY") e estudante na [TRYBE](http://https://www.betrybe.com/ "TRYBE") , onde adquiro hard e soft skills, como:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=adrianomonteiroweb&hide=html,css,blade,ruby&layout=compact&theme=dracula&langs_count=10)
 
 <h2>Fundamentos:</h2>
-<p><i>Em fundamentos, tive bom desempenho com JavaScript. Além de utilizar bem o fluxo de versionamento Git.</i></p>
+<p><i>Tenho formação baseada em Javascript. Linguagem da qual pretendo continuar me especializando como atualmente em POO.</i></p>
 <div>
-  <img align="center" alt="Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 <h2>Front-end:</h2>
@@ -32,15 +27,14 @@
 </div>
 
 <h2>Ciências da Computação:</h2>
-<p><i>Python, a tecnologia da qual terei importante peso em minha stack. Além de estrutura de dados, padrões de projeto e tudo mais dessa interessante área da programação.</i></p>
+<p><i>POO, padrões de projeto, redes, raspagem de dados, algoritmos e estrutura de dados. Tudo na minha segunda linguagem, o python.</i></p>
 <div>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
 <h2>Soft Skils:</h2>
-<p><i>A jornada de soft skills na Trybe está sendo incrível. Eu que já tinha Inteligência emocional como meu ponto forte, aprendi muito mais sobre e mais ainda sobre as demais abordagens.</i></p>
+<p><i>Eu que já tinha Inteligência emocional como meu ponto forte, aprendi muito mais sobre e mais ainda sobre as demais abordagens como:</i></p>
 
-- Inteligência Emocional;
 - Empatia;
 - Resiliência;
 - Colaboração;
@@ -59,7 +53,6 @@
 <div>
   <img align="center" alt="TypeScript" height="28" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Angular" height="28" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="PHP" height="38" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="C#" height="38" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 <br>
