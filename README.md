@@ -2,7 +2,7 @@
 
 #### Bem vindo ou bem vinda. Sou de Fortaleza - Ceará, nordeste brasileiro. Treinee na [YOUFY](https://www.youfy.com.br/?gclid=CjwKCAjwlcaRBhBYEiwAK341jWJYT0JOuMAP2cuF6uPcgLs6396PLSbbLkTmay1zFB5mn5i6rdh5cBoCSjcQAvD_BwE "YOUFY") e estudante na [TRYBE](http://https://www.betrybe.com/ "TRYBE") , onde adquiro hard e soft skills, como:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=adrianomonteiroweb&hide=html,css,blade,ruby, php&layout=compact&theme=dracula&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=adrianomonteiroweb&hide=html,css,blade,ruby, php &layout=compact&theme=dracula&langs_count=10)
 
 <h2>Fundamentos:</h2>
 <p><i>Tenho formação baseada em Javascript. Linguagem da qual pretendo continuar me especializando como atualmente em POO para web scraping.</i></p>
