@@ -53,6 +53,7 @@
 <div>
   <img align="center" alt="TypeScript" height="28" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Golang" height="28" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
+  <img align="center" alt="Redis" height="28" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">
 </div>
 <br>
 
