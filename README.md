@@ -49,9 +49,10 @@
 </div>
 
 <h2>"Aprendendo a aprender!"</h2>
-<p><i>Pretendo seguir crescendo de acordo com a cultura e stack do time em que estiver inserido, aprendendo métodos e tecnologias, além das que viso como TypeScript</i></p>
+<p><i>Pretendo seguir crescendo de acordo com a cultura e stack do time em que estiver inserido, aprendendo métodos e tecnologias, além das que viso como TypeScript, Golang</i></p>
 <div>
   <img align="center" alt="TypeScript" height="28" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Golang" height="28" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
 </div>
 <br>
 
