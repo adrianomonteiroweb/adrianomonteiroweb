@@ -1,6 +1,6 @@
 ### Olá, Adriano Monteiro por aqui. Como vai, tudo bem?
 
-#### Bem vindo ou bem vinda. Sou de Fortaleza - Ceará, nordeste brasileiro. Treinee na [YOUFY](https://www.youfy.com.br/?gclid=CjwKCAjwlcaRBhBYEiwAK341jWJYT0JOuMAP2cuF6uPcgLs6396PLSbbLkTmay1zFB5mn5i6rdh5cBoCSjcQAvD_BwE "YOUFY") e estudante na [TRYBE](http://https://www.betrybe.com/ "TRYBE") , onde adquiro hard e soft skills, como:
+#### Bem vindo ou bem vinda. Sou de Fortaleza - Ceará, nordeste brasileiro. Desenvolvedor de software pela [TRYBE](http://https://www.betrybe.com/ "TRYBE") e fui recentemente treinee na [YOUFY](https://www.youfy.com.br/?gclid=CjwKCAjwlcaRBhBYEiwAK341jWJYT0JOuMAP2cuF6uPcgLs6396PLSbbLkTmay1zFB5mn5i6rdh5cBoCSjcQAvD_BwE "YOUFY")  , onde adquiri e sigo adquirindo hard e soft skills, como:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=adrianomonteiroweb&hide=html,blade,ruby,php&layout=compact&theme=dracula&langs_count=10)
 
