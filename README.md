@@ -48,11 +48,12 @@
   <img align="center" alt="Slack" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg">
 </div>
 
-<h2>"Aprendendo a aprender!"</h2>
-<p><i>Pretendo seguir crescendo de acordo com a cultura e stack do time em que estiver inserido, aprendendo métodos e tecnologias, além das que viso como TypeScript, Golang</i></p>
+<h2>"Estudando atualmente:"</h2>
+<p><i>Algoritmos, system design e object oriented design com tecnologias como python, Java, Golang, para me aprofundar em programação. Além de Typescript e Redis com o objetivo de aprimorar minha stack base em javascript.</i></p>
 <div>
-  <img align="center" alt="TypeScript" height="28" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Java" height="28" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Golang" height="28" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
+  <img align="center" alt="TypeScript" height="28" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Redis" height="28" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">
 </div>
 <br>
