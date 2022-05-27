@@ -48,7 +48,7 @@
   <img align="center" alt="Slack" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg">
 </div>
 
-<h2>"Estudando atualmente:"</h2>
+<h2>Estudando atualmente:</h2>
 <p><i>Algoritmos, system design e object oriented design com tecnologias como Python, Java, Golang, para me aprofundar em programação. Além de Typescript e Redis com o objetivo de aprimorar minha stack base em javascript.</i></p>
 <div>
   <img align="center" alt="Python" height="28" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
