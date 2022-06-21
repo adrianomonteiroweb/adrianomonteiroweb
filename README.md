@@ -52,11 +52,11 @@
 <p><i>Algoritmos, system design e object oriented design com tecnologias como Python, Java, Golang, para me aprofundar em programação. Além de Typescript e Redis com o objetivo de aprimorar minha stack base em javascript.</i></p>
 <div>
   <img align="center" alt="Python" height="28" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Angular" height="28" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
-  <img align="center" alt="Vue.js" height="28" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vue/vue-original.svg">
   <img align="center" alt="TypeScript" height="28" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Next.js" height="28" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/next/next-original.svg">
-  <img align="center" alt="Nest.js" height="28" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nest/nest-original.svg">
+  <img align="center" alt="Angular" height="28" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="Vue.js" height="28" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+  <img align="center" alt="Next.js" height="28" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="Nest.js" height="28" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg">
   <img align="center" alt="Redis" height="28" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">
   <img align="center" alt="Csharp" height="28" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
