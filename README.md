@@ -5,19 +5,19 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianomonteiroweb&layout=compact&langs_count=6&hide=css,scss,html,sass,shell,handlebars,php,blade,dockerfile,pug,procfile&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2>Fundamentos:</h2>
-<p><i>Tenho formação baseada em Javascript. Linguagem da qual pretendo continuar me especializando como atualmente em programação orientada a objetos para web scraping e automação.</i></p>
+<p><i>Formação baseada em Javascript, linguagem da qual pretendo continuar me especializando. Minha principal experiência na linguagem foi para automações de web scraping / web crawlers com javascript orientado a objetos e Node.js como trainee por 3 meses.</i></p>
 <div>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 <h2>Front-end:</h2>
-<p><i>Além de React.js e Redux, tive a oportunidade de trabalhar testes com Jest.js e React Testing Library. E utilizar a todo momento do ESLint Airbnb, desenvolvendo em diversas formas como pair programming e noções de metodologias ágeis como Scrum e Kanban.</i></p>
+<p><i>Além de React.js e Redux, tive a oportunidade de trabalhar testes com Jest.js e React Testing Library. E utilizar a todo momento do ESLint Airbnb, desenvolvendo em diversas formas como pair programming e noções de metodologias ágeis como Scrum e Kanban. Atualmente estou estudando Axios, Angular, Vue e Next.js</i></p>
 <div>
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
 </div>
 
 <h2>Back-end:</h2>
-<p><i>Atualmente em MongoDB, em beck-end além de trabalhar com bancos de dados relacionais e não-relacionais. Node.js, Socket.io, arquiteturas SOLID e ORM serão com certeza poderosas tecnologias e métodos em minha stack.</i></p>
+<p><i>Em beck-end além de trabalhar com bancos de dados relacionais e não-relacionais. Node.js, Express.js, JWT, Socket.io, arquiteturas MSC e MVC, SOLID, ORM, são com certeza poderosas tecnologias e métodos em minha stack.</i></p>
 <div>
   <img align="center" alt="Mysql" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
@@ -52,9 +52,11 @@
 <p><i>Algoritmos, system design e object oriented design com tecnologias como Python, Java, Golang, para me aprofundar em programação. Além de Typescript e Redis com o objetivo de aprimorar minha stack base em javascript.</i></p>
 <div>
   <img align="center" alt="Python" height="28" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Java" height="28" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Golang" height="28" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
+  <img align="center" alt="Angular" height="28" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
+  <img align="center" alt="Vue.js" height="28" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vue/vue-original.svg">
   <img align="center" alt="TypeScript" height="28" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Next.js" height="28" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/next/next-original.svg">
+  <img align="center" alt="Nest.js" height="28" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nest/nest-original.svg">
   <img align="center" alt="Redis" height="28" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">
   <img align="center" alt="Csharp" height="28" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
