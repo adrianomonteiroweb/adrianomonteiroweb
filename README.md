@@ -9,24 +9,42 @@
 [<img align="left" height="94px" width="94px" alt="Youty" src="https://media-exp1.licdn.com/dms/image/C560BAQHNZJVejyS7vQ/company-logo_200_200/0/1646248552619?e=1666828800&v=beta&t=Jk1VFdeTsoYRuSozVawFZezt0T_ibsKxsK0FoyX0jig"/>](https://www.youfy.com.br/?gclid=CjwKCAjwlcaRBhBYEiwAK341jWJYT0JOuMAP2cuF6uPcgLs6396PLSbbLkTmay1zFB5mn5i6rdh5cBoCSjcQAvD_BwE)
 
 **Trainee Software Developer** \
-[**Youfy**](https://www.youfy.com.br/?gclid=CjwKCAjwlcaRBhBYEiwAK341jWJYT0JOuMAP2cuF6uPcgLs6396PLSbbLkTmay1zFB5mn5i6rdh5cBoCSjcQAvD_BwE) • Full-time \
-Linguagens & Tecnologias: `Javascript`, `Nodejs`, `POO`, `Web Scraping`,\
+[**Youfy**](https://www.youfy.com.br/?gclid=CjwKCAjwlcaRBhBYEiwAK341jWJYT0JOuMAP2cuF6uPcgLs6396PLSbbLkTmay1zFB5mn5i6rdh5cBoCSjcQAvD_BwE) • Full-time • 3 Meses \
+Linguagens & Tecnologias: `Javascript`, `Nodejs`, `POO`, `Web Scraping`, `Puppeteer`, `SCRUM`, `Kanban`.\
 <br/>
 
+### Experiência Acadêmica:
+
+[<img align="left" height="94px" width="94px" alt="Trybe" src="https://media-exp1.licdn.com/dms/image/C4D0BAQFalja6B0Vl8A/company-logo_200_200/0/1625490679503?e=1666828800&v=beta&t=bCnrhm9OcOb2h4NguFOhoTQC4DA_85u-GOUZ-z_o72c"/>](https://www.betrybe.com/)
+
+**Web Full Stack Software Developer** \
+[**Trybe**](https://www.betrybe.com/) • Especialização • 12 Meses \
+Linguagens & Tecnologias: \
+
 <h2>Fundamentos:</h2>
-<p><i>Formação baseada em Javascript, linguagem da qual pretendo continuar me especializando. Minha principal experiência na linguagem foi para automações de web scraping / web crawlers com javascript orientado a objetos e Node.js como trainee por 3 meses.</i></p>
+
 <div>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
+<p><i>• Javascript Class e functions.</i></p>
+<p><i>• Testes unitários com Jest.</i></p>
+
 <h2>Front-end:</h2>
-<p><i>Além de React.js e Redux, tive a oportunidade de trabalhar testes com Jest.js e React Testing Library. E utilizar a todo momento do ESLint Airbnb, desenvolvendo em diversas formas como pair programming e noções de metodologias ágeis como Scrum e Kanban. Atualmente estou estudando Axios, Angular, Vue e Next.js</i></p>
+
 <div>
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
 </div>
 
+<p><i>• ESLint Airbnb.</i></p>
+<p><i>• API Rest / RestFul.</i></p>
+<p><i>• ReactJS class e functions.</i></p>
+<p><i>• TDD.</i></p>
+<p><i>• Testes com React Testing Library.</i></p>
+<p><i>• Gerenciamento de estado c/ Redux e React Hooks.</i></p>
+
 <h2>Back-end:</h2>
-<p><i>Em beck-end além de trabalhar com bancos de dados relacionais e não-relacionais. Node.js, Express.js, JWT, Socket.io, arquiteturas MSC e MVC, SOLID, ORM, são com certeza poderosas tecnologias e métodos em minha stack.</i></p>
+
 <div>
   <img align="center" alt="Mysql" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
@@ -35,30 +53,40 @@ Linguagens & Tecnologias: `Javascript`, `Nodejs`, `POO`, `Web Scraping`,\
   <img align="center" alt="Socket.io" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg">
 </div>
 
-<h2>Ciências da Computação:</h2>
-<p><i>POO, padrões de projeto, redes, raspagem de dados, algoritmos e estrutura de dados. Tudo na minha segunda linguagem, o python.</i></p>
+<p><i>• Banco de dados relacional MySql.</i></p>
+<p><i>• Banco de dados não-relacional MongoDB.</i></p>
+<p><i>• Docker.</i></p>
+<p><i>• Testes com Mocha e Chai.</i></p>
+<p><i>• ExpressJS.</i></p>
+<p><i>• Arquitetura MSC.</i></p>
+<p><i>• JWT e Joi.</i></p>
+<p><i>• Deploy com Heroku.</i></p>
+<p><i>• SOLID e ORM Sequelize com MySql.</i></p>
+<p><i>• Arquitetura MVC.</i></p>
+<p><i>• Socket.io.</i></p>
+
+<h2>Ciências da Computação com Python:</h2>
+
 <div>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
+<p><i>• Programação orientada a objetos.</i></p>
+<p><i>• Padrões de projetos.</i></p>
+<p><i>• Redes.</i></p>
+<p><i>• Raspagem de dados.</i></p>
+<p><i>• Alforitmos.</i></p>
+<p><i>• Estrutura de dados.</i></p>
+
 <h2>Soft Skils:</h2>
-<p><i>Eu que já tinha Inteligência emocional como meu ponto forte, aprendi muito mais sobre e mais ainda sobre as demais abordagens como:</i></p>
 
-- Empatia;
-- Resiliência;
-- Colaboração;
-- Comunicação;
-- Criatividade;
-
-<h2>Ferramentas:</h2>
-<p><i>Além de slack, utilizei também em diversas calls zoom e discord. No desenvolvimento, WorkBench na modelagem de dados e muito VScode!</i></p>
-<div>
-  <img align="center" alt="Vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Slack" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg">
-</div>
+<p><i>• Empatia.</i></p>
+<p><i>• Resiliência.</i></p>
+<p><i>• Colaboração.</i></p>
+<p><i>• Comunicação.</i></p>
 
 <h2>Estudando atualmente:</h2>
-<p><i>Algoritmos, system design e object oriented design com tecnologias como Golang, Python, Java, para me aprofundar em programação. Além de Typescript e Redis com o objetivo de aprimorar minha stack base em javascript.</i></p>
+
 <div>
   <img align="center" alt="Golang" height="28" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
   <img align="center" alt="Python" height="28" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -70,6 +98,23 @@ Linguagens & Tecnologias: `Javascript`, `Nodejs`, `POO`, `Web Scraping`,\
   <img align="center" alt="Redis" height="28" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">
   <img align="center" alt="Csharp" height="28" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
+
+<p><i>• Axios.</i></p>
+<p><i>• System design.</i></p>
+<p><i>• Object oriented design.</i></p>
+<p><i>• Golang.</i></p>
+<p><i>• NestJS.</i></p>
+<p><i>• Angular.</i></p>
+<p><i>• VueJS.</i></p>
+<p><i>• NextJS.</i></p>
+<p><i>• TypeScript.</i></p>
+<p><i>• Redis.</i></p>
+<p><i>• Postgres.</i></p>
+
+<h2>English Level:</h2>
+
+<p><i>• Entre A1 BEGINNER a A2 ELEMENTARY.</i></p>
+
 <br>
 
 #### Contatos:
