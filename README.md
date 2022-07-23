@@ -21,11 +21,15 @@ Linguagens & Tecnologias: `Javascript`, `Nodejs`, `POO`, `Web Scraping`, `Puppet
 [**Trybe**](https://www.betrybe.com/) • Especialização • 12 Meses \
 Linguagens & Tecnologias: \
 
+<br>
+
 <h2>Fundamentos:</h2>
 
 <div>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
+<br>
+
 <p><i>• Javascript Class e functions.</i></p>
 <p><i>• Testes unitários com Jest.</i></p>
 
@@ -35,6 +39,7 @@ Linguagens & Tecnologias: \
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
 </div>
+<br>
 
 <p><i>• ESLint Airbnb.</i></p>
 <p><i>• API Rest / RestFul.</i></p>
@@ -52,6 +57,7 @@ Linguagens & Tecnologias: \
   <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Socket.io" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg">
 </div>
+<br>
 
 <p><i>• Banco de dados relacional MySql.</i></p>
 <p><i>• Banco de dados não-relacional MongoDB.</i></p>
@@ -70,6 +76,7 @@ Linguagens & Tecnologias: \
 <div>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
+<br>
 
 <p><i>• Programação orientada a objetos.</i></p>
 <p><i>• Padrões de projetos.</i></p>
@@ -98,6 +105,7 @@ Linguagens & Tecnologias: \
   <img align="center" alt="Redis" height="28" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">
   <img align="center" alt="Csharp" height="28" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
+<br>
 
 <p><i>• Axios.</i></p>
 <p><i>• System design.</i></p>
