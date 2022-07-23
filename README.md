@@ -1,6 +1,16 @@
 ### Olá, Adriano Monteiro por aqui. Como vai, tudo bem?
 
-#### Bem vindo ou bem vinda. Sou de Fortaleza - Ceará, nordeste brasileiro. Desenvolvedor de software pela [TRYBE](https://www.betrybe.com/ "TRYBE") e fui recentemente treinee na [YOUFY](https://www.youfy.com.br/?gclid=CjwKCAjwlcaRBhBYEiwAK341jWJYT0JOuMAP2cuF6uPcgLs6396PLSbbLkTmay1zFB5mn5i6rdh5cBoCSjcQAvD_BwE "YOUFY") , onde adquiri e sigo adquirindo hard e soft skills, como:
+<p>Desenvolvedor júnior full stack pela Trybe, minhas últimas experiências foram como trainee por 3
+meses na Youfy com desenvolvimento para automações de web scraping / web crawler com javascript
+orientado a objetos, além de metodologia ágil, SCRUM, reuniões com clientes, escopo e gestão de
+projetos. Também dando aulas na plataforma Profes, javascript, lógica de programação e
+desenvolvimento web básico.
+
+Tenho como objetivo me desenvolver quanto profissional e muito em breve me tornar um
+engenheiro de software de fato. Por isso busco grandes desafios e aprendizados afim de acelerar esse
+processo. De que forma posso colaborar com seu time?</p>
+
+### Principais Linguagens:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianomonteiroweb&layout=compact&langs_count=6&hide=css,scss,html,sass,shell,handlebars,php,blade,dockerfile,pug,procfile&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -18,7 +28,7 @@ Linguagens & Tecnologias: `Javascript`, `Nodejs`, `POO`, `Web Scraping`, `Puppet
 [<img align="left" height="94px" width="94px" alt="Trybe" src="https://media-exp1.licdn.com/dms/image/C4D0BAQFalja6B0Vl8A/company-logo_200_200/0/1625490679503?e=1666828800&v=beta&t=bCnrhm9OcOb2h4NguFOhoTQC4DA_85u-GOUZ-z_o72c"/>](https://www.betrybe.com/)
 
 **Web Full Stack Software Developer** \
-[**Trybe**](https://www.betrybe.com/) • Especialização • 12 Meses \
+[**Trybe**](https://www.betrybe.com/) • Especialização • 12 Meses
 
 <br>
 
@@ -106,10 +116,10 @@ Linguagens & Tecnologias: `Javascript`, `Nodejs`, `POO`, `Web Scraping`, `Puppet
 </div>
 <br>
 
+<p><i>• Golang.</i></p>
 <p><i>• Axios.</i></p>
 <p><i>• System design.</i></p>
 <p><i>• Object oriented design.</i></p>
-<p><i>• Golang.</i></p>
 <p><i>• NestJS.</i></p>
 <p><i>• Angular.</i></p>
 <p><i>• VueJS.</i></p>
@@ -121,8 +131,6 @@ Linguagens & Tecnologias: `Javascript`, `Nodejs`, `POO`, `Web Scraping`, `Puppet
 <h2>English Level:</h2>
 
 <p><i>• Entre A1 BEGINNER a A2 ELEMENTARY.</i></p>
-
-<br>
 
 #### Contatos:
 
