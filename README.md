@@ -104,29 +104,15 @@ Linguagens & Tecnologias: `Javascript`, `Nodejs`, `POO`, `Web Scraping`, `Puppet
 <h2>Estudando atualmente:</h2>
 
 <div>
-  <img align="center" alt="Golang" height="28" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
-  <img align="center" alt="Python" height="28" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="TypeScript" height="28" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Angular" height="28" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="Vue.js" height="28" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="Next.js" height="28" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="Nest.js" height="28" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg">
-  <img align="center" alt="Redis" height="28" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">
-  <img align="center" alt="Csharp" height="28" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Golang" height="28" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
+  <img align="center" alt="Ruby" height="28" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
 </div>
 <br>
 
-<p><i>• Golang.</i></p>
-<p><i>• Axios.</i></p>
-<p><i>• System design.</i></p>
-<p><i>• Object oriented design.</i></p>
-<p><i>• NestJS.</i></p>
-<p><i>• Angular.</i></p>
-<p><i>• VueJS.</i></p>
-<p><i>• NextJS.</i></p>
 <p><i>• TypeScript.</i></p>
-<p><i>• Redis.</i></p>
-<p><i>• Postgres.</i></p>
+<p><i>• Golang.</i></p>
+<p><i>• Ruby.</i></p>
 
 <h2>English Level:</h2>
 
