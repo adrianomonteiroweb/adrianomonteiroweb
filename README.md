@@ -12,7 +12,7 @@ processo. De que forma posso colaborar com seu time?</p>
 
 ### Principais Linguagens:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianomonteiroweb&layout=compact&langs_count=6&hide=css,scss,html,sass,shell,handlebars,php,blade,dockerfile,pug,procfile,jinja&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianomonteiroweb&layout=compact&langs_count=8&hide=css,scss,html,sass,shell,handlebars,php,blade,dockerfile,pug,procfile,jinja&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Experiência Profissional:
 
