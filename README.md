@@ -32,8 +32,9 @@ Linguagens & Tecnologias: `Javascript`, `Nodejs`, `POO`, `Web Scraping`, `Puppet
 </div>
 <br>
 
-<p><i>• Javascript Class and functions.</i></p>
-<p><i>• Unit tests with Jest.</i></p>
+<p><i>• Javascript Class and functions;</i></p>
+<p><i>• Unit tests with Jest;</i></p>
+<p><i>• TypeScript.</i></p>
 
 <h2>Front-end:</h2>
 
@@ -43,10 +44,10 @@ Linguagens & Tecnologias: `Javascript`, `Nodejs`, `POO`, `Web Scraping`, `Puppet
 </div>
 <br>
 
-<p><i>• ESLint Airbnb.</i></p>
-<p><i>• API Rest / RestFul.</i></p>
-<p><i>• TDD.</i></p>
-<p><i>• Tests with React Testing Library.</i></p>
+<p><i>• ESLint Airbnb;</i></p>
+<p><i>• API Rest / RestFul;</i></p>
+<p><i>• TDD;</i></p>
+<p><i>• Tests with React Testing Library;</i></p>
 <p><i>• State management with Context API, React Hooks and Redux.</i></p>
 
 <h2>Back-end:</h2>
@@ -60,16 +61,16 @@ Linguagens & Tecnologias: `Javascript`, `Nodejs`, `POO`, `Web Scraping`, `Puppet
 </div>
 <br>
 
-<p><i>• MySql relational database.</i></p>
-<p><i>• Non-relational MongoDB database.</i></p>
-<p><i>• Docker.</i></p>
-<p><i>• Tests with Mocha and Chai.</i></p>
-<p><i>• ExpressJS.</i></p>
-<p><i>• Arquitetura MSC.</i></p>
-<p><i>• JWT and Joi.</i></p>
-<p><i>• Deploy with Heroku.</i></p>
-<p><i>• SOLID and ORM Sequelize with MySql and PostgreSQL.</i></p>
-<p><i>• MVC architecture.</i></p>
+<p><i>• MySql relational database;</i></p>
+<p><i>• Non-relational MongoDB database;</i></p>
+<p><i>• Docker;</i></p>
+<p><i>• Tests with Mocha and Chai;</i></p>
+<p><i>• ExpressJS;</i></p>
+<p><i>• Arquitetura MSC;</i></p>
+<p><i>• JWT and Joi;</i></p>
+<p><i>• Deploy with Heroku;</i></p>
+<p><i>• SOLID and ORM Sequelize with MySql and PostgreSQL;</i></p>
+<p><i>• MVC architecture;</i></p>
 <p><i>• Socket.io.</i></p>
 
 <h2>Computer Science with Python:</h2>
@@ -79,11 +80,11 @@ Linguagens & Tecnologias: `Javascript`, `Nodejs`, `POO`, `Web Scraping`, `Puppet
 </div>
 <br>
 
-<p><i>• Object-oriented programming.</i></p>
-<p><i>• Design patterns.</i></p>
+<p><i>• Object-oriented programming;</i></p>
+<p><i>• Design patterns;</i></p>
 <p><i>• Networks.</i></p>
-<p><i>• Data Scraping.</i></p>
-<p><i>• Algorithms.</i></p>
+<p><i>• Data Scraping;</i></p>
+<p><i>• Algorithms;</i></p>
 <p><i>• Data Structure.</i></p>
 
 <h2>Other courses and studies:</h2>
@@ -95,8 +96,7 @@ Linguagens & Tecnologias: `Javascript`, `Nodejs`, `POO`, `Web Scraping`, `Puppet
 </div>
 <br>
 
-<p><i>• TypeScript.</i></p>
-<p><i>• Golang.</i></p>
+<p><i>• Golang;</i></p>
 <p><i>• Ruby.</i></p>
 
 <h2>Languages:</h2>
