@@ -110,3 +110,7 @@ Linguagens & Tecnologias: `Javascript`, `Nodejs`, `POO`, `Web Scraping`, `Puppet
 [<img width="10%" src="https://camo.githubusercontent.com/d9d4db0a25f6d41d6ef282c6adc2f9bd5b31201ef00ba580f5a945da4063a937/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57686174734170702d3235443336363f7374796c653d666f722d7468652d6261646765266c6f676f3d7768617473617070266c6f676f436f6c6f723d7768697465">](https://api.whatsapp.com/send?phone=5585989587554&text=Hi%2C%20Adriano...%20)
 
 [![card](https://github-readme-stats.vercel.app/api?username=adrianomonteiroweb&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+#### Profile Views:
+
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
