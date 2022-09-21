@@ -4,7 +4,7 @@
 
 ### Technologies:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianomonteiroweb&layout=compact&langs_count=10&hide=css,scss,html,sass,handlebars,php,blade,dockerfile,pug,procfile,jinja,java&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianomonteiroweb&layout=compact&langs_count=8&hide=css,scss,html,sass,handlebars,php,blade,dockerfile,pug,procfile,jinja,java&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Professional Experience:
 
