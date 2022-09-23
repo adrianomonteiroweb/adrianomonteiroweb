@@ -1,6 +1,8 @@
 ### Hello, Adriano Monteiro here. How are you?
 
-<p>Junior full stack developer formed at Trybe, I worked as a trainee for 3 months at Youfy developing automations for web scraping with object-oriented javascript, in addition to agile methodology, SCRUM, Kanban, meetings with clients, scope and project management. I aim to become a real software engineer. That's why I look for great challenges and learning in order to accelerate this process. That said, how can I collaborate with your team? More about me in my [portfolio](https://adrianomonteirodev.herokuapp.com/) .</p>
+<p>Junior full stack developer formed at Trybe, I worked as a trainee for 3 months at Youfy developing automations for web scraping with object-oriented javascript, in addition to agile methodology, SCRUM, Kanban, meetings with clients, scope and project management. I aim to become a real software engineer. That's why I look for great challenges and learning in order to accelerate this process. That said, how can I collaborate with your team?</p>
+
+- More about me in my [portfolio](https://adrianomonteirodev.herokuapp.com/)
 
 
 
