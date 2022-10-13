@@ -4,6 +4,8 @@
 
 - More about me in my [portfolio](https://adrianomonteirodev.herokuapp.com/).
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?adrianomonteiroweb=anuraghazra&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Professional Experience:
 
 [<img align="left" height="94px" width="94px" alt="Youty" src="https://media-exp1.licdn.com/dms/image/C560BAQHNZJVejyS7vQ/company-logo_200_200/0/1646248552619?e=1666828800&v=beta&t=Jk1VFdeTsoYRuSozVawFZezt0T_ibsKxsK0FoyX0jig"/>](https://www.youfy.com.br/?gclid=CjwKCAjwlcaRBhBYEiwAK341jWJYT0JOuMAP2cuF6uPcgLs6396PLSbbLkTmay1zFB5mn5i6rdh5cBoCSjcQAvD_BwE)
