@@ -4,12 +4,12 @@
 
 - More about me in my [portfolio](https://adrianomonteirodev.herokuapp.com/).
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianomonteiroweb&hide=css,scss,html,sql,shell&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianomonteiroweb&layout=compact&langs_count=10&hide=html,css)
 
 
 ### Professional Experience:
 
-[<img align="left" height="94px" width="94px" alt="Youty" src="https://media-exp1.licdn.com/dms/image/C560BAQHNZJVejyS7vQ/company-logo_200_200/0/1646248552619?e=1666828800&v=beta&t=Jk1VFdeTsoYRuSozVawFZezt0T_ibsKxsK0FoyX0jig"/>](https://www.youfy.com.br/?gclid=CjwKCAjwlcaRBhBYEiwAK341jWJYT0JOuMAP2cuF6uPcgLs6396PLSbbLkTmay1zFB5mn5i6rdh5cBoCSjcQAvD_BwE)
+[<img align="left" height="94px" width="94px" alt="Youty" src="https://media-exp1.licdn.com/dms/image/C560BAQHNZJVejyS7vQ/company-logo_200_200/0/1646248552619?e=1675900800&v=beta&t=SFu_tYcxVWNRhe9F8fAzNcWfedDsq9hRC7LmlyWtEM4"/>](https://www.youfy.com.br/?gclid=CjwKCAjwlcaRBhBYEiwAK341jWJYT0JOuMAP2cuF6uPcgLs6396PLSbbLkTmay1zFB5mn5i6rdh5cBoCSjcQAvD_BwE)
 
 **Trainee Software Developer** \
 [**Youfy**](https://www.youfy.com.br/?gclid=CjwKCAjwlcaRBhBYEiwAK341jWJYT0JOuMAP2cuF6uPcgLs6396PLSbbLkTmay1zFB5mn5i6rdh5cBoCSjcQAvD_BwE) • Full-time • 3 Meses \
@@ -18,7 +18,7 @@ Linguagens & Tecnologias: `Javascript`, `Nodejs`, `POO`, `Web Scraping`, `Puppet
 
 ### Academic Experience:
 
-[<img align="left" height="94px" width="94px" alt="Trybe" src="https://media-exp1.licdn.com/dms/image/C4D0BAQFalja6B0Vl8A/company-logo_200_200/0/1625490679503?e=1666828800&v=beta&t=bCnrhm9OcOb2h4NguFOhoTQC4DA_85u-GOUZ-z_o72c"/>](https://www.betrybe.com/)
+[<img align="left" height="94px" width="94px" alt="Trybe" src="https://media-exp1.licdn.com/dms/image/D4D0BAQHo1GZmhutd4A/company-logo_200_200/0/1664308283764?e=1675900800&v=beta&t=widdUnUytuG46KIv2Gl4humNGqXlzqKhi8Qy33yQ_5I"/>](https://www.betrybe.com/)
 
 **Web Full Stack Software Developer** \
 [**Trybe**](https://www.betrybe.com/) • Especialização • 12 Meses
