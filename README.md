@@ -4,7 +4,7 @@
 
 - More about me in my [portfolio](https://adrianomonteirodev.herokuapp.com/).
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianomonteiroweb&layout=compact&theme=discord_old_burple&langs_count=10&hide=html,css)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianomonteiroweb&layout=compact&theme=dracula&langs_count=10&hide=html,css)
 
 
 ### Professional Experience:
