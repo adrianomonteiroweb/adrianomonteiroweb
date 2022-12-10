@@ -2,9 +2,6 @@
 
 <p>Junior full stack developer formed at Trybe, I worked as a trainee for 3 months at Youfy developing automations for web scraping with object-oriented javascript, in addition to agile methodology, SCRUM, Kanban, meetings with clients, scope and project management. I aim to become a real software engineer. That's why I look for great challenges and learning in order to accelerate this process. That said, how can I collaborate with your team?</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianomonteiroweb&layout=compact&theme=dracula&langs_count=10&hide=html,css,sass,shell)
-
-
 ### Professional Experience:
 
 [<img align="left" height="94px" width="94px" alt="Youty" src="https://media-exp1.licdn.com/dms/image/C560BAQHNZJVejyS7vQ/company-logo_200_200/0/1646248552619?e=1675900800&v=beta&t=SFu_tYcxVWNRhe9F8fAzNcWfedDsq9hRC7LmlyWtEM4"/>](https://www.youfy.com.br/?gclid=CjwKCAjwlcaRBhBYEiwAK341jWJYT0JOuMAP2cuF6uPcgLs6396PLSbbLkTmay1zFB5mn5i6rdh5cBoCSjcQAvD_BwE)
