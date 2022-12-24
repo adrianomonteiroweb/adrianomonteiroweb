@@ -99,6 +99,7 @@ Languages & technologies: `Javascript`, `Nodejs`, `POO`, `Web Scraping`, `Puppet
 <h2>Languages:</h2>
 
 <p>ENGLISH: <i>• Between A1 BEGINNER and A2 ELEMENTARY.</i></p>
+<p>SPANISH: <i>• Between A1 BEGINNER and A2 ELEMENTARY.</i></p>
 
 #### Contacts:
 
