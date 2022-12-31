@@ -4,7 +4,7 @@
 
 <span>Portfolio under construction, <a href="https://adrianomonteirodev.vercel.app/" target="_blank">click here</a></span>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianomonteiroweb&layout=compact&langs_count=10&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianomonteiroweb&layout=compact&langs_count=10&theme=dracula&hide=html,css,sql"/>
 
 ### Professional Experience:
 
