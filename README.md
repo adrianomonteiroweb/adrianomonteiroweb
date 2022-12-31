@@ -4,6 +4,8 @@
 
 <span>Portfolio under construction, <a href="https://adrianomonteirodev.vercel.app/" target="_blank">click here</a></span>
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianomonteiroweb&layout=compact&langs_count=10&theme=dracula"/>
+
 ### Professional Experience:
 
 [<img align="left" height="94px" width="94px" alt="Youty" src="https://media-exp1.licdn.com/dms/image/C560BAQHNZJVejyS7vQ/company-logo_200_200/0/1646248552619?e=1675900800&v=beta&t=SFu_tYcxVWNRhe9F8fAzNcWfedDsq9hRC7LmlyWtEM4"/>](https://www.youfy.com.br/?gclid=CjwKCAjwlcaRBhBYEiwAK341jWJYT0JOuMAP2cuF6uPcgLs6396PLSbbLkTmay1zFB5mn5i6rdh5cBoCSjcQAvD_BwE)
