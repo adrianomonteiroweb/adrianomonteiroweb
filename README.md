@@ -8,7 +8,7 @@
 
 ### Professional Experience:
 
-[<img align="left" height="94px" width="94px" alt="Youty" src="https://media-exp1.licdn.com/dms/image/C560BAQHNZJVejyS7vQ/company-logo_200_200/0/1646248552619?e=1675900800&v=beta&t=SFu_tYcxVWNRhe9F8fAzNcWfedDsq9hRC7LmlyWtEM4"/>](https://www.youfy.com.br/?gclid=CjwKCAjwlcaRBhBYEiwAK341jWJYT0JOuMAP2cuF6uPcgLs6396PLSbbLkTmay1zFB5mn5i6rdh5cBoCSjcQAvD_BwE)
+[<img align="left" height="94px" width="94px" alt="Youty" src="https://media.licdn.com/dms/image/C560BAQHNZJVejyS7vQ/company-logo_200_200/0/1646248552619?e=1690416000&v=beta&t=ihoZMjip1zawYtBxIR5l88MUZW_-B3X3WZPa8iTOnw8"/>](https://www.youfy.com.br/?gclid=CjwKCAjwlcaRBhBYEiwAK341jWJYT0JOuMAP2cuF6uPcgLs6396PLSbbLkTmay1zFB5mn5i6rdh5cBoCSjcQAvD_BwE)
 
 **Trainee Software Developer** \
 [**Youfy**](https://www.youfy.com.br/?gclid=CjwKCAjwlcaRBhBYEiwAK341jWJYT0JOuMAP2cuF6uPcgLs6396PLSbbLkTmay1zFB5mn5i6rdh5cBoCSjcQAvD_BwE) • Full-time • 3 Months \
@@ -17,7 +17,7 @@ Languages & technologies: `Javascript`, `Nodejs`, `POO`, `Web Scraping`, `Puppet
 
 ### Academic Experience:
 
-[<img align="left" height="94px" width="94px" alt="Trybe" src="https://media-exp1.licdn.com/dms/image/D4D0BAQHo1GZmhutd4A/company-logo_200_200/0/1664308283764?e=1675900800&v=beta&t=widdUnUytuG46KIv2Gl4humNGqXlzqKhi8Qy33yQ_5I"/>](https://www.betrybe.com/)
+[<img align="left" height="94px" width="94px" alt="Trybe" src="https://media.licdn.com/dms/image/D4D0BAQHo1GZmhutd4A/company-logo_200_200/0/1664308283764?e=1690416000&v=beta&t=mofYQKh5xJViAnef_PDiymrdjnI2KdY5A0lvB1ZROaM"/>](https://www.betrybe.com/)
 
 **Web Full Stack Software Developer** \
 [**Trybe**](https://www.betrybe.com/) • Specialization • 12 Months
