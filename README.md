@@ -14,17 +14,23 @@
 [**Hobots at Solfy**](https://www.hobots.app/) • Full-time • Currently \
 Languages & technologies: `Javascript`, `Nodejs`, `POO`, `Web Scraping`, `SOLID`, `SCRUM`, `Kanban`.\
 
+<br>
+
 [<img align="left" height="94px" width="94px" alt="Youty" src="https://avatars.githubusercontent.com/u/108774651?s=200&v=4"/>](https://www.linkedin.com/in/adrianomonteirodev)
 
 **Freelancer Software Developer** \
 [**Adriano Monteiro Dev**](https://www.linkedin.com/in/adrianomonteirodev) • Full-time • 01/2023 - 06/2023 \
 Languages & technologies: `Javascript`, `Typescript`, `Nodejs`, `Reactjs`, `MySQL`, `MongoDB`, `Web Scraping`, `Python`.\
 
+<br>
+
 [<img align="left" height="94px" width="94px" alt="Youty" src="https://avatars.githubusercontent.com/u/108774651?s=200&v=4"/>](https://www.linkedin.com/in/adrianomonteirodev)
 
 **Programming Instructor** \
 [**Adriano Monteiro Dev**](https://www.linkedin.com/in/adrianomonteirodev) • Full-time • 06/2022 - Currently \
 Languages & technologies: `Javascript`, `Typescript`, `Nodejs`, `Reactjs`, `MySQL`, `MongoDB`, `Web Scraping`, `Python`.\
+
+<br>
 
 [<img align="left" height="94px" width="94px" alt="Youty" src="https://media.licdn.com/dms/image/C560BAQHNZJVejyS7vQ/company-logo_200_200/0/1646248552619?e=1690416000&v=beta&t=ihoZMjip1zawYtBxIR5l88MUZW_-B3X3WZPa8iTOnw8"/>](https://www.youfy.com.br/?gclid=CjwKCAjwlcaRBhBYEiwAK341jWJYT0JOuMAP2cuF6uPcgLs6396PLSbbLkTmay1zFB5mn5i6rdh5cBoCSjcQAvD_BwE)
 
