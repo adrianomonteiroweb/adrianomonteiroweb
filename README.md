@@ -1,6 +1,6 @@
 ### Hello, Adriano Monteiro here. How are you?
 
-<p>Junior full stack developer formed at Trybe, I worked as a trainee for 3 months at Youfy developing automations for web scraping with object-oriented javascript, in addition to agile methodology, SCRUM, Kanban, meetings with clients, scope and project management. I aim to become a real software engineer. That's why I look for great challenges and learning in order to accelerate this process. That said, how can I collaborate with your team?</p>
+<p>I have a year of experience working as a trainee in a startup, freelancing, and teaching programming. Currently, I am with Solfy, primarily collaborating on object-oriented JavaScript and Node.js.</p>
 
 <span>Portfolio under construction, <a href="https://adrianomonteirodev.vercel.app/" target="_blank">click here</a></span>
 
@@ -8,10 +8,28 @@
 
 ### Professional Experience:
 
+[<img align="left" height="94px" width="94px" alt="Youty" src="https://avatars.githubusercontent.com/u/120644800?s=200&v=4"/>](https://www.hobots.app/)
+
+**Trainee Software Developer** \
+[**Hobots at Solfy**](https://www.hobots.app/) • Full-time • Currently \
+Languages & technologies: `Javascript`, `Nodejs`, `POO`, `Web Scraping`, `SOLID`, `SCRUM`, `Kanban`.\
+
+[<img align="left" height="94px" width="94px" alt="Youty" src="https://avatars.githubusercontent.com/u/108774651?s=200&v=4"/>](https://www.linkedin.com/in/adrianomonteirodev)
+
+**Freelancer Software Developer** \
+[**Adriano Monteiro Dev**](https://www.linkedin.com/in/adrianomonteirodev) • Full-time • 01/2023 - 06/2023 \
+Languages & technologies: `Javascript`, `Typescript`, `Nodejs`, `Reactjs`, `MySQL`, `MongoDB`, `Web Scraping`, `Python`.\
+
+[<img align="left" height="94px" width="94px" alt="Youty" src="https://avatars.githubusercontent.com/u/108774651?s=200&v=4"/>](https://www.linkedin.com/in/adrianomonteirodev)
+
+**Programming Instructor** \
+[**Adriano Monteiro Dev**](https://www.linkedin.com/in/adrianomonteirodev) • Full-time • 06/2022 - Currently \
+Languages & technologies: `Javascript`, `Typescript`, `Nodejs`, `Reactjs`, `MySQL`, `MongoDB`, `Web Scraping`, `Python`.\
+
 [<img align="left" height="94px" width="94px" alt="Youty" src="https://media.licdn.com/dms/image/C560BAQHNZJVejyS7vQ/company-logo_200_200/0/1646248552619?e=1690416000&v=beta&t=ihoZMjip1zawYtBxIR5l88MUZW_-B3X3WZPa8iTOnw8"/>](https://www.youfy.com.br/?gclid=CjwKCAjwlcaRBhBYEiwAK341jWJYT0JOuMAP2cuF6uPcgLs6396PLSbbLkTmay1zFB5mn5i6rdh5cBoCSjcQAvD_BwE)
 
 **Trainee Software Developer** \
-[**Youfy**](https://www.youfy.com.br/?gclid=CjwKCAjwlcaRBhBYEiwAK341jWJYT0JOuMAP2cuF6uPcgLs6396PLSbbLkTmay1zFB5mn5i6rdh5cBoCSjcQAvD_BwE) • Full-time • 3 Months \
+[**Youfy**](https://www.youfy.com.br/?gclid=CjwKCAjwlcaRBhBYEiwAK341jWJYT0JOuMAP2cuF6uPcgLs6396PLSbbLkTmay1zFB5mn5i6rdh5cBoCSjcQAvD_BwE) • Full-time • 03/2022 - 05/2022 \
 Languages & technologies: `Javascript`, `Nodejs`, `POO`, `Web Scraping`, `Puppeteer`, `SCRUM`, `Kanban`.\
 <br/>
 
@@ -23,11 +41,13 @@ Languages & technologies: `Javascript`, `Nodejs`, `POO`, `Web Scraping`, `Puppet
 [**Trybe**](https://www.betrybe.com/) • Specialization • 12 Months
 
 <br>
+<br>
 
 <h2>Fundamentals:</h2>
 
 <div>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="TypeScript" height="28" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
 </div>
 <br>
 
@@ -86,22 +106,23 @@ Languages & technologies: `Javascript`, `Nodejs`, `POO`, `Web Scraping`, `Puppet
 <p><i>• Algorithms;</i></p>
 <p><i>• Data Structure.</i></p>
 
-<h2>Other courses and studies:</h2>
+<h2>Basic knowledge in:</h2>
 
 <div>
-  <img align="center" alt="TypeScript" height="28" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Golang" height="28" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
-  <img align="center" alt="Ruby" height="28" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
+  <img align="center" alt="Java" height="28" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="C#" height="28" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 <br>
 
 <p><i>• Golang;</i></p>
-<p><i>• Ruby.</i></p>
+<p><i>• Java;</i></p>
+<p><i>• C# and .NET.</i></p>
 
 <h2>Languages:</h2>
 
-<p>ENGLISH: <i>• Between A1 BEGINNER and A2 ELEMENTARY.</i></p>
-<p>SPANISH: <i>• Between A1 BEGINNER and A2 ELEMENTARY.</i></p>
+<p>ENGLISH: <i>• A2 - Good reading, writing and studying conversation.</i></p>
+<p>SPANISH: <i>• A1 - Good reading, studying writing and speaking.</i></p>
 
 #### Contacts:
 
