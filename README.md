@@ -1,8 +1,8 @@
 ### Hello, Adriano Monteiro here. How are you?
 
-<p>I have a year of experience working as a trainee in a startup, freelancing, and teaching programming. Currently, I am with Solfy, primarily collaborating on object-oriented JavaScript and Node.js.</p>
+<p>"More than a year of programming experience. Working as a programming instructor and software developer."</p>
 
-<span>Portfolio under construction, <a href="https://adrianomonteirodev.vercel.app/" target="_blank">click here</a></span>
+<!-- <span>Portfolio under construction, <a href="https://adrianomonteirodev.vercel.app/" target="_blank">click here</a></span> -->
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianomonteiroweb&layout=compact&langs_count=10&theme=dracula&hide=html,css,sql"/>
 
@@ -10,41 +10,41 @@
 
 [<img align="left" height="94px" width="94px" alt="Youty" src="https://avatars.githubusercontent.com/u/120644800?s=200&v=4"/>](https://www.hobots.app/)
 
-**Trainee Software Developer** \
-[**Hobots at Solfy**](https://www.hobots.app/) • Full-time • Currently \
-Languages & technologies: `Javascript`, `Nodejs`, `POO`, `Web Scraping`, `SOLID`, `SCRUM`, `Kanban`.\
+**Trainee Software Engineer** \
+[**Hobots at Solfy**](https://www.hobots.app/) [ 07/2023 - Currently ]\
+Languages & technologies: `Javascript`, `Nodejs`, `POO`, `Web Scraping`, `SOLID`, `SCRUM`, `Kanban`.
 
 <br>
 
-[<img align="left" height="94px" width="94px" alt="Youty" src="https://avatars.githubusercontent.com/u/108774651?s=200&v=4"/>](https://www.linkedin.com/in/adrianomonteirodev)
+[<img align="left" height="94px" width="94px" alt="Youty" src="https://avatars.githubusercontent.com/u/148720176?s=64&v=4"/>](https://www.linkedin.com/in/adrianomonteirodev)
 
-**Freelancer Software Developer** \
-[**Adriano Monteiro Dev**](https://www.linkedin.com/in/adrianomonteirodev) • Full-time • 01/2023 - 06/2023 \
-Languages & technologies: `Javascript`, `Typescript`, `Nodejs`, `Reactjs`, `MySQL`, `MongoDB`, `Web Scraping`, `Python`.\
+**Founder & Software Developer** \
+[**Jogo Finito**](https://www.linkedin.com/company/jogofinito) [ 01/2023 - Currently ] \
+Languages & technologies: `Javascript`, `Typescript`, `Nodejs`, `Reactjs`, `MySQL`, `MongoDB`.
 
 <br>
 
 [<img align="left" height="94px" width="94px" alt="Youty" src="https://avatars.githubusercontent.com/u/108774651?s=200&v=4"/>](https://www.linkedin.com/in/adrianomonteirodev)
 
 **Programming Instructor** \
-[**Adriano Monteiro Dev**](https://www.linkedin.com/in/adrianomonteirodev) • Full-time • 06/2022 - Currently \
-Languages & technologies: `Javascript`, `Typescript`, `Nodejs`, `Reactjs`, `MySQL`, `MongoDB`, `Web Scraping`, `Python`.\
+[**Freelancer**](https://www.linkedin.com/in/adrianomonteirodev) [ 06/2022 - Currently ]\
+Languages & technologies: `Javascript`, `Typescript`, `Nodejs`, `Reactjs`, `MySQL`, `MongoDB`, `Web Scraping`, `Python`.
 
 <br>
 
-[<img align="left" height="94px" width="94px" alt="Youty" src="https://media.licdn.com/dms/image/C560BAQHNZJVejyS7vQ/company-logo_200_200/0/1646248552619?e=1690416000&v=beta&t=ihoZMjip1zawYtBxIR5l88MUZW_-B3X3WZPa8iTOnw8"/>](https://www.youfy.com.br/?gclid=CjwKCAjwlcaRBhBYEiwAK341jWJYT0JOuMAP2cuF6uPcgLs6396PLSbbLkTmay1zFB5mn5i6rdh5cBoCSjcQAvD_BwE)
+[<img align="left" height="94px" width="94px" alt="Youty" src="https://avatars.githubusercontent.com/u/78800319?s=64&v=4"/>](https://www.youfy.com.br/?gclid=CjwKCAjwlcaRBhBYEiwAK341jWJYT0JOuMAP2cuF6uPcgLs6396PLSbbLkTmay1zFB5mn5i6rdh5cBoCSjcQAvD_BwE)
 
 **Trainee Software Developer** \
-[**Youfy**](https://www.youfy.com.br/?gclid=CjwKCAjwlcaRBhBYEiwAK341jWJYT0JOuMAP2cuF6uPcgLs6396PLSbbLkTmay1zFB5mn5i6rdh5cBoCSjcQAvD_BwE) • Full-time • 03/2022 - 05/2022 \
+[**Youfy**](https://www.youfy.com.br/?gclid=CjwKCAjwlcaRBhBYEiwAK341jWJYT0JOuMAP2cuF6uPcgLs6396PLSbbLkTmay1zFB5mn5i6rdh5cBoCSjcQAvD_BwE) [ 03/2022 - 05/2022 ]\
 Languages & technologies: `Javascript`, `Nodejs`, `POO`, `Web Scraping`, `Puppeteer`, `SCRUM`, `Kanban`.\
 <br/>
 
 ### Academic Experience:
 
-[<img align="left" height="94px" width="94px" alt="Trybe" src="https://media.licdn.com/dms/image/D4D0BAQHo1GZmhutd4A/company-logo_200_200/0/1664308283764?e=1690416000&v=beta&t=mofYQKh5xJViAnef_PDiymrdjnI2KdY5A0lvB1ZROaM"/>](https://www.betrybe.com/)
+[<img align="left" height="94px" width="94px" alt="Trybe" src="https://avatars.githubusercontent.com/u/55410300?s=64&v=4"/>](https://www.betrybe.com/)
 
 **Web Full Stack Software Developer** \
-[**Trybe**](https://www.betrybe.com/) • Specialization • 12 Months
+[**Trybe**](https://www.betrybe.com/) • Specialization • [ 12 Months | 06/2021 - 06/2022 ]
 
 <br>
 <br>
@@ -116,13 +116,11 @@ Languages & technologies: `Javascript`, `Nodejs`, `POO`, `Web Scraping`, `Puppet
 
 <div>
   <img align="center" alt="Golang" height="28" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
-  <img align="center" alt="Java" height="28" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="C#" height="28" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 <br>
 
 <p><i>• Golang;</i></p>
-<p><i>• Java;</i></p>
 <p><i>• C# and .NET.</i></p>
 
 <h2>Languages:</h2>
