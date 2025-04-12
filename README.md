@@ -61,15 +61,11 @@ Software developer with experience in process automation (RPA), web scraping, fu
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![PNPM](https://img.shields.io/badge/PNPM-5968F0?style=for-the-badge&logo=pnpm&logoColor=white)
 
----
-
 ## 💻 **Desktop Development**
 ![Electron.js](https://img.shields.io/badge/Electron.js-47848F?style=for-the-badge&logo=electron&logoColor=white)
 
 ### **📌 Key Features:**
 - **Electron.js**: Building cross-platform desktop applications that utilize web technologies.
-
----
 
 ## 📱 **Mobile Development**
 ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
