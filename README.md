@@ -68,7 +68,6 @@ Software developer with experience in process automation (RPA), web scraping, fu
 
 ### **📌 Key Features:**
 - **Electron.js**: Building cross-platform desktop applications that utilize web technologies.
-- **Puppeteer & Web Scraping**: Used for building automation scripts within desktop apps.
 
 ---
 
