@@ -15,7 +15,7 @@ Software developer with experience in process automation (RPA), web scraping, fu
 ### **💼 Solfy Tech** *(Jan/2024 - Present)*
 **Junior Software Developer** (Hybrid - Fortaleza, CE)
 - RPA development using advanced **web scraping** and process automation techniques.
-- Implementation and optimization of **full-stack** systems with **React.js, Node.js, and relational and non-relational databases**.
+- Implementation and optimization of **full-stack** systems with **Next.js, React.js, Node.js, and relational and non-relational databases**.
 - Application of **SOLID** and **Clean Code** principles to ensure scalability and code maintainability.
 - Agile methodologies (**SCRUM, Kanban**), actively participating in sprints, code reviews, and architectural decisions.
 
@@ -41,17 +41,14 @@ Software developer with experience in process automation (RPA), web scraping, fu
 ### **📌 Languages**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ### **📌 Front-end**
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
 ### **📌 Back-end**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Drizzle ORM](https://img.shields.io/badge/Drizzle%20ORM-FF8800?style=for-the-badge&logo=javascript&logoColor=white)
 
 ### **📌 Databases**
@@ -62,16 +59,20 @@ Software developer with experience in process automation (RPA), web scraping, fu
 ### **📌 DevOps & Tools**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![PNPM](https://img.shields.io/badge/PNPM-5968F0?style=for-the-badge&logo=pnpm&logoColor=white)
+![Electron.js](https://img.shields.io/badge/Electron.js-47848F?style=for-the-badge&logo=electron&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ---
 
 ## 🎯 **Technical Highlights**
-✔ **Web Scraping & RPA**: Development of robust automation with **Puppeteer, Playwright, and Selenium**.
-✔ **Software Architecture**: Implementation of **SOLID, Design Patterns, and Clean Architecture**.
-✔ **High-Performance APIs**: Creation of efficient APIs with **Node.js, NestJS, and Express.js**.
-✔ **Databases**: Modeling and optimization of SQL and NoSQL databases.
-✔ **Automated Testing**: Experience with **Jest, Mocha, Chai, and Cypress**.
+✔ **Web Scraping & RPA**: Development of robust automation with **Puppeteer, Playwright, and Selenium**.  
+✔ **Software Architecture**: Implementation of **SOLID, Design Patterns, and Clean Architecture**.  
+✔ **High-Performance APIs**: Creation of efficient APIs with **Node.js, Express.js, and Drizzle ORM**.  
+✔ **Databases**: Modeling and optimization of SQL and NoSQL databases.  
+✔ **Automated Testing**: Experience with **Jest, Mocha, Chai, and Cypress**.  
+✔ **Desktop Applications**: Development of **Electron.js** desktop applications.  
+✔ **Mobile Applications**: Experience with **React Native** for mobile apps.  
 
 ---
 
@@ -84,4 +85,3 @@ Software developer with experience in process automation (RPA), web scraping, fu
 🚀 Always seeking challenges to grow and contribute to innovative projects!
 
 📩 **Contact me** for collaborations, freelance work, and opportunities! 😊
-
